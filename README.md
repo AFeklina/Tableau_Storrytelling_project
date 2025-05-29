@@ -8,7 +8,7 @@ It was built as part of a storytelling exercise in Tableau, designed to walk sta
 🧭 View the full interactive story:  
 👉 [Storytelling Presentation](https://public.tableau.com/app/profile/anastasia.feklina/viz/Feklina_StorytellingwithData_Story/ReturnsattheSuperstore)  
 📊 View the dashboard only:  
-👉 [Returns Dashboard](https://public.tableau.com/app/profile/anastasia.feklina/viz/Feklina_StorytellingwithData/ReasonsforreturnsinSuperstore)
+👉 [Returns Dashboard](https://public.tableau.com/app/profile/anastasia.feklina/viz/Feklina_StorytellingwithData/ReasonsforreturnsinSuperstore)   
 👉 Text of the presentation is in the the_text_of_storry file.
 
 ---
